@@ -2598,7 +2598,7 @@ textarea.form-control:focus, textarea.form-control:active {
 }
 
 .progress-container.progress-primary .progress {
-  background: rgba(55, 140, 63, 0.4);
+  background: rgba(255, 255, 255, 0.4);
 }
 
 .progress-container.progress-primary .progress-bar {
@@ -2607,7 +2607,7 @@ textarea.form-control:focus, textarea.form-control:active {
 
 .progress-container.progress-primary .progress-value,
 .progress-container.progress-primary .progress-badge {
-  color: #378C3F;
+  color: white;
 }
 
 .progress-container.progress-info .progress {
@@ -4624,14 +4624,14 @@ Created using IcoMoon - icomoon.io
 
 .card {
   border: 0;
-  border-radius: 0.1875rem;
+  border-radius: 0.1rem;
   display: inline-block;
   position: relative;
   overflow: hidden;
   width: 100%;
   margin-bottom: 20px;
-  -webkit-box-shadow: 0px 5px 25px 0px rgba(0, 0, 0, 0.2);
-          box-shadow: 0px 5px 25px 0px rgba(0, 0, 0, 0.2);
+  -webkit-box-shadow: 0px 5px 25px 0px rgba(255, 255, 255, 0.1);
+          box-shadow: 0px 5px 25px 0px rgba(255, 255, 255, 0.1);
 }
 
 .card .card-body {
@@ -7272,4 +7272,5 @@ a.credit {
 /* Common Style */
 .section {
   padding-bottom: 0;
+  box-shadow: white;
 }
