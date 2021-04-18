@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: prajeshpuri.github.io
+Token: 153365696def7184d419a457ff407352f318e9dd8dd435e708940d4bb41ab022
